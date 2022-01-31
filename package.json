@@ -1,0 +1,19 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phw020410/phw020410.github.io.git"
+  },
+  "author": "phw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phw020410/phw020410.github.io/issues"
+  },
+  "homepage": "https://github.com/phw020410/phw020410.github.io#readme"
+}
