@@ -6,4 +6,4 @@ var app=http.createServer(function(req,res) {
     res.end("hello world");
 });
 
-app.listen(80,'127.0.0.1');
+app.listen(80);
