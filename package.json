@@ -4,7 +4,8 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
   },
   "repository": {
     "type": "git",
@@ -19,5 +20,8 @@
   "devDependencies": {
     "http": "^0.0.1-security",
     "url": "^0.11.0"
+  },
+  "dependencies": {
+    "heroku": "^7.59.2"
   }
 }
