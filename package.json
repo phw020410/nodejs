@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/phw020410/nodejs/issues"
   },
-  "homepage": "https://github.com/phw020410/nodejs#readme"
+  "homepage": "https://github.com/phw020410/nodejs#readme",
+  "dependencies": {
+    "http": "^0.0.1-security",
+    "url": "^0.11.0"
+  }
 }
