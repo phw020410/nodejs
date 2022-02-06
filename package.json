@@ -20,8 +20,5 @@
   "devDependencies": {
     "http": "^0.0.1-security",
     "url": "^0.11.0"
-  },
-  "dependencies": {
-    "heroku": "^7.59.2"
   }
 }
