@@ -9,16 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/phw020410/phw020410.github.io.git"
+    "url": "git+https://github.com/phw020410/nodejs.git"
   },
-  "author": "phw",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/phw020410/phw020410.github.io/issues"
+    "url": "https://github.com/phw020410/nodejs/issues"
   },
-  "homepage": "https://github.com/phw020410/phw020410.github.io#readme",
-  "devDependencies": {
-    "http": "^0.0.1-security",
-    "url": "^0.11.0"
-  }
+  "homepage": "https://github.com/phw020410/nodejs#readme"
 }
